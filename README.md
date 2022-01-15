@@ -12,3 +12,10 @@
     - DB's                                  50030-50039
 
 
+
+
+**Todo**
+
+Write 2 scripts
+- one to execute the steps above
+- the other to generate this README.md from the comments in that script
